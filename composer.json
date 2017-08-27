@@ -1,7 +1,7 @@
 {
     "name": "ngtfkx/laradeck-flash-messages",
     "type": "library",
-    "description": ":package_description",
+    "description": "Send and view multiple messages (success, error, info, warning) for user with Laravel FlashData",
     "keywords": [
         "ngtfkx",
         "laradeck-flash-messages",
