@@ -4,20 +4,23 @@
     "description": ":package_description",
     "keywords": [
         "ngtfkx",
-        "laradeck-flash-messages"
+        "laradeck-flash-messages",
+        "laradeck",
+        "message",
+        "session"
     ],
     "homepage": "https://github.com/ngtfkx/laradeck-flash-messages",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
-            "homepage": ":author_website",
+            "name": "Denis Sandal",
+            "email": "den.sandal@gmail.com",
+            "homepage": "https://github.com/ngtfkx",
             "role": "Developer"
         }
     ],
     "require": {
-        "illuminate/support": "~5.1",
+        "laravel/framework": "~5.1",
         "php" : "~5.6|~7.0"
     },
     "require-dev": {
