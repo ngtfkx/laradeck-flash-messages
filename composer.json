@@ -7,7 +7,9 @@
         "laradeck-flash-messages",
         "laradeck",
         "message",
-        "session"
+        "session",
+        "laravel",
+        "php"
     ],
     "homepage": "https://github.com/ngtfkx/laradeck-flash-messages",
     "license": "MIT",
@@ -42,11 +44,7 @@
         "check-style": "phpcs -p --standard=PSR2 --runtime-set ignore_errors_on_exit 1 --runtime-set ignore_warnings_on_exit 1 src tests",
         "fix-style": "phpcbf -p --standard=PSR2 --runtime-set ignore_errors_on_exit 1 --runtime-set ignore_warnings_on_exit 1 src tests"
     },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0-dev"
-        }
-    },
+    "extra": {},
     "config": {
         "sort-packages": true
     }
